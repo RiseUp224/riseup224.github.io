@@ -1,39 +1,18 @@
 @media screen and (max-width: 480px) {
   /* comes into effect for screens less than or equal to 320 pixels */
   .form-style-4{
-	width: 100%;
-	font-size: 16px;
-	background: #495C70;
-	padding: 30px 30px 15px 30px;
-	border: 5px solid #53687E;
+	width: 95%;
 	}
 	.form-style-4 label > span{
-		display: inline-block;
-		float: left;
 		width: 40%;
 	}
 	.form-style-4 input[type=text],
 	.form-style-4 input[type=email] 
 	{
-		background: transparent;
-		border: none;
-		border-bottom: 1px dashed #83A4C5;
-		width: 60%;
-		outline: none;
-		padding: 0px 0px 0px 0px;
-		font-style: italic;
+		width: 50%;
 	}
 	.form-style-4 textarea{
-		font-style: italic;
-		padding: 0px 0px 0px 0px;
-		background: transparent;
-		outline: none;
-		border: none;
-		border-bottom: 1px dashed #83A4C5;
-		width: 60%;
-		overflow: hidden;
-		resize:none;
-		height:20px;
+		width: 55%;
 	}
 }
 
@@ -41,38 +20,17 @@
   /* comes into effect for screens less than or equal to 320 pixels */
   .form-style-4{
 	width: 475px;
-	font-size: 16px;
-	background: #495C70;
-	padding: 30px 30px 15px 30px;
-	border: 5px solid #53687E;
 	}
 	.form-style-4 label > span{
-		display: inline-block;
-		float: left;
 		width: 150px;
 	}
 	.form-style-4 input[type=text],
 	.form-style-4 input[type=email] 
 	{
-		background: transparent;
-		border: none;
-		border-bottom: 1px dashed #83A4C5;
 		width: 275px;
-		outline: none;
-		padding: 0px 0px 0px 0px;
-		font-style: italic;
 	}
 	.form-style-4 textarea{
-		font-style: italic;
-		padding: 0px 0px 0px 0px;
-		background: transparent;
-		outline: none;
-		border: none;
-		border-bottom: 1px dashed #83A4C5;
 		width: 275px;
-		overflow: hidden;
-		resize:none;
-		height:20px;
 	}
 }
 
