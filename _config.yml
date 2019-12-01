@@ -1,4 +1,12 @@
 theme: jekyll-theme-architect
+
+plugins:
+  - jekyll-relative-links
+  
+relative_links:
+  enabled: true
+  collections: true
+  
 include:
   - index.md
   - faq.md
