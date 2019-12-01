@@ -4,15 +4,15 @@
 	width: 95%;
 	}
 	.form-style-4 label > span{
-		width: 25%;
+		width: 20%;
 	}
 	.form-style-4 input[type=text],
 	.form-style-4 input[type=email] 
 	{
-		width: 50%;
+		width: 60%;
 	}
 	.form-style-4 textarea{
-		width: 55%;
+		width: 60%;
 	}
 }
 
