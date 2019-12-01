@@ -1,7 +1,7 @@
 @media screen and (max-width: 480px) {
   /* comes into effect for screens less than or equal to 320 pixels */
   .form-style-4{
-	width: 95%;
+	width: 100%;
 	font-size: 16px;
 	background: #495C70;
 	padding: 30px 30px 15px 30px;
@@ -10,7 +10,7 @@
 	.form-style-4 label > span{
 		display: inline-block;
 		float: left;
-		width: 30%;
+		width: 40%;
 	}
 	.form-style-4 input[type=text],
 	.form-style-4 input[type=email] 
