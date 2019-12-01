@@ -5,21 +5,24 @@
       action="https://formspree.io/riseup224@gmail.com" 
       method="POST">
       <label for="Nom">
-      <span>Entrez votre nom</span><input type="text" name="field1" required="true" />
+      <span>Entrez votre nom</span><input type="text" name="Nom" required="true" />
       </label>
       <label for="Email">
-      <span>Votre email</span><input type="email" name="field2" required="true" />
+      <span>Votre email</span><input type="email" name="_replyTo" required="true" />
       </label>
       <label for="Objet">
-      <span>Objet</span><input type="text" name="field3" required="true" />
+      <span>Objet</span><input type="text" name="Objet" required="true" />
       </label>
       <label for="Message">
-      <span>Votre message</span><textarea name="field4" onkeyup="adjust_textarea(this)" required="true"></textarea>
+      <span>Votre message</span><textarea name="Message" onkeyup="adjust_textarea(this)" required="true"></textarea>
       </label>
       <label>
       <span> </span><input type="submit" value="Send Letter" />
       </label>
-      
+      <label>
       <input type="hidden" name="_next" value="//riseup224.github.io/form/thankyou.html" />
+      </label>
+      <label>
       <input type="hidden" name="_subject" value="New submission!" />      
+      </label>
 </form>
