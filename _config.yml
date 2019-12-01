@@ -1,4 +1,4 @@
 theme: jekyll-theme-architect
 include:
-  - Index.md
-  - Faq.md
+  - index.md
+  - faq.md
