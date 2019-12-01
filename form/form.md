@@ -9,7 +9,7 @@
       <input type="hidden" name="_next" value="https://riseup224.github.io/form/thankyou.html" />
       <input type="hidden" name="_subject" value="New submission!" />
       <label for="Nom">
-      <span>Entrez votre nom</span><input type="text" name="Nom" required="true" />
+      <span>Votre nom</span><input type="text" name="Nom" required="true" />
       </label>
       <label for="Email">
       <span>Votre email</span><input type="email" name="_replyto" required="true" />
