@@ -5,4 +5,4 @@ Nous avons recueilli les questions qui reviennent le plus souvent et avons centr
 
 [FAQ](https://riseup224.github.io/faq.html)
 
-[Contacter-nous](https://riseup224.github.io/form.html)
+[Contacter-nous](https://riseup224.github.io/form/form.html)
