@@ -1,5 +1,3 @@
-# Contactez-nous
-
 <link rel="stylesheet" type="text/css" href="form.css">
 <script src="./form.js"></script>
 
