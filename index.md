@@ -1,2 +1,2 @@
 # Rise Up
-Welcome to the Rising Up Organization.
+Welcome to the Rising Up Organization, test.
