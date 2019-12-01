@@ -1,2 +1,2 @@
-# riseup224.github.io
-RiseUp web app.
+# Rise Up
+Welcome to the Rising Up Organization.
