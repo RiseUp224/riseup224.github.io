@@ -1,2 +1,2 @@
 # riseup224.github.io
-RiseUp est un groupe créé par des étudiants guinéens résidents en France. Conscients des nombreuses difficultés auxquelles l'étudiant guinéen fait face du début de sa procédure Campus France jusqu'à son intégration une fois sur place, nous entendons mettre en place une plateforme qui facilitera chacune des phases de la procédure. Des renseignements pour le campus France au dépôt du dossier, en passant par l’obtention du visa et à l’installation de la personne ici en France, puis à toutes les démarches administratives qu’il y a lieu de faire telles que la demande du Crous, l’inscription à la sécurité sociale, la CAF, etc.
+RiseUp web app.
