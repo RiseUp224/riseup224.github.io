@@ -1,10 +1,10 @@
 @media screen and (max-width: 480px) {
   /* comes into effect for screens less than or equal to 320 pixels */
   .form-style-4{
-	width: 90%;
+	width: 95%;
 	}
 	.form-style-4 label > span{
-		width: 25%;
+		width: 30%;
 	}
 	.form-style-4 input[type=text],
 	.form-style-4 input[type=email] 
