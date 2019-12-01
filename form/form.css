@@ -4,7 +4,7 @@
 	width: 95%;
 	}
 	.form-style-4 label > span{
-		width: 30%;
+		width: 33%;
 	}
 	.form-style-4 input[type=text],
 	.form-style-4 input[type=email] 
@@ -38,7 +38,7 @@
 	/*width: 450px;*/
 	font-size: 16px;
 	background: #495C70;
-	padding: 30px 5px 15px 5px;
+	padding: 15px 5px 15px 5px;
 	border: 5px solid #53687E;
 }
 .form-style-4 input[type=submit],
