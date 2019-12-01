@@ -1,5 +1,83 @@
+@media screen and (max-width: 320px) {
+  /* comes into effect for screens less than or equal to 320 pixels */
+  .form-style-4{
+	width: 95%;
+	font-size: 16px;
+	background: #495C70;
+	padding: 30px 30px 15px 30px;
+	border: 5px solid #53687E;
+	}
+	.form-style-4 label > span{
+		display: inline-block;
+		float: left;
+		width: 25%;
+	}
+	.form-style-4 input[type=text],
+	.form-style-4 input[type=email] 
+	{
+		background: transparent;
+		border: none;
+		border-bottom: 1px dashed #83A4C5;
+		width: 70%;
+		outline: none;
+		padding: 0px 0px 0px 0px;
+		font-style: italic;
+	}
+	.form-style-4 textarea{
+		font-style: italic;
+		padding: 0px 0px 0px 0px;
+		background: transparent;
+		outline: none;
+		border: none;
+		border-bottom: 1px dashed #83A4C5;
+		width: 70%;
+		overflow: hidden;
+		resize:none;
+		height:20px;
+	}
+}
+
+@media screen and (min-width: 321px) {
+  /* comes into effect for screens less than or equal to 320 pixels */
+  .form-style-4{
+	width: 475px;
+	font-size: 16px;
+	background: #495C70;
+	padding: 30px 30px 15px 30px;
+	border: 5px solid #53687E;
+	}
+	.form-style-4 label > span{
+		display: inline-block;
+		float: left;
+		width: 150px;
+	}
+	.form-style-4 input[type=text],
+	.form-style-4 input[type=email] 
+	{
+		background: transparent;
+		border: none;
+		border-bottom: 1px dashed #83A4C5;
+		width: 275px;
+		outline: none;
+		padding: 0px 0px 0px 0px;
+		font-style: italic;
+	}
+	.form-style-4 textarea{
+		font-style: italic;
+		padding: 0px 0px 0px 0px;
+		background: transparent;
+		outline: none;
+		border: none;
+		border-bottom: 1px dashed #83A4C5;
+		width: 275px;
+		overflow: hidden;
+		resize:none;
+		height:20px;
+	}
+}
+
 .form-style-4{
-	width: 450px;
+	/*width: 450px;*/
 	font-size: 16px;
 	background: #495C70;
 	padding: 30px 30px 15px 30px;
@@ -24,7 +102,7 @@
 .form-style-4 label > span{
 	display: inline-block;
 	float: left;
-	width: 150px;
+	/*width: 150px;*/
 }
 .form-style-4 input[type=text],
 .form-style-4 input[type=email] 
@@ -32,7 +110,7 @@
 	background: transparent;
 	border: none;
 	border-bottom: 1px dashed #83A4C5;
-	width: 275px;
+	/*width: 275px;*/
 	outline: none;
 	padding: 0px 0px 0px 0px;
 	font-style: italic;
@@ -44,7 +122,7 @@
 	outline: none;
 	border: none;
 	border-bottom: 1px dashed #83A4C5;
-	width: 275px;
+	/*width: 275px;*/
 	overflow: hidden;
 	resize:none;
 	height:20px;
